@@ -1,0 +1,11 @@
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.item {
+  list-style: none;
+}
+.loading {
+  font-size: 15px;
+}
